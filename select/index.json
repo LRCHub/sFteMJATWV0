@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "歌を歌おう finale",
+  "base_artist": "ルミナスウィッチーズ",
+  "createdAt": "2026-02-20T03:33:43.060508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歌を歌おう",
+      "artist": "ルミナスウィッチーズ",
+      "has_synced": false,
+      "path": "select/01_歌を歌おう_ルミナスウィッチーズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "歌を歌おう",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/02_歌を歌おう_MISIA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歌を歌おう",
+      "artist": "ルミナスウィッチーズ",
+      "has_synced": false,
+      "path": "select/pl_01_歌を歌おう_ルミナスウィッチーズ.txt"
+    }
+  ]
+}
